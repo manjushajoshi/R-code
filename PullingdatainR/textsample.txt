@@ -1,0 +1,6 @@
+This is a sample file generated to show the example of file reading through R programming.
+
+The text file can be read   
+    through scan command. Remember to use option what="" with scan command which indicated input will be of character data.
+
+The most frequent word in the text file can be found by
