@@ -10,7 +10,7 @@
 #To see how many colours can be generated.
 palette()  
  
-#to plot countour from   inbuilt dataset
+#to plot contour from   inbuilt dataset
  data(volcano)
  image(volcano)
  contour(volcano)
