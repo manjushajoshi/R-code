@@ -1,7 +1,7 @@
 #Try command one by one
 #to check current working directory
 getwd()
-#to set th directory in which the textsample file is stored
+#to set the directory in which the textsample.txt file is stored
 # setwd("/home/manjusha/data/")
 #on windows
 #setwd("C:\Downloads\data")
